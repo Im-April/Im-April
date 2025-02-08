@@ -1,4 +1,10 @@
 ## Hi there 👋
+- 🌱 I’m currently learning data analysis, machine learning, and deep learning.
+- 📫 How to reach me: ghwon4640@gmail.com
+- ⚡ Fun fact: I love finding patterns in data.
+
+## My tech stack 📚
+
 
 <!--
 **Im-April/Im-April** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
