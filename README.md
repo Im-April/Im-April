@@ -1,9 +1,30 @@
-## Hi there 👋
+## Hello World 👋🌏
 - 🌱 I’m currently learning data analysis, machine learning, and deep learning.
 - 📫 How to reach me: ghwon4640@gmail.com
 - ⚡ Fun fact: I love finding patterns in data.
 
 ## My tech stack 📚
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![R Badge](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## Studying ✏️
+![TensorFlow Badge](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras Badge](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+
+
+
+
+
+
+
+
+
 
 
 <!--
