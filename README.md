@@ -1,4 +1,19 @@
 ## Hello World 👋🌏
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 - 🌱 I’m currently learning data analysis, machine learning, and deep learning.
 - 📫 How to reach me: ghwon4640@gmail.com
 - ⚡ Fun fact: I love finding patterns in data.
@@ -23,19 +38,6 @@
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Tableau Badge](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
-
-
-
-
-
-
-
-
-
-
-
-
-<!--
 **Im-April/Im-April** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
