@@ -1,6 +1,8 @@
-## Hello World 👋🌏
+![header](https://capsule-render.vercel.app/api?type=Blur&color=2E5E26&height=300&section=header&text=April'sGitHub&fontSize=90&fontColor=1A1F16)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E5E26&background=1C3A1300&center=true&vCenter=true&width=890&lines=AI+Engineer;From+data+to+decision)](https://git.io/typing-svg)
 
-
+---
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-April&layout=compact)
 
 
 
