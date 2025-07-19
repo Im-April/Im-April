@@ -1,10 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=Blur&color=2E5E26&height=300&section=header&text=April'sGitHub&fontSize=90&fontColor=1A1F16)
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E5E26&background=1C3A1300&center=true&vCenter=true&width=1100&lines=AI+Engineer;From+data+to+decision)](https://git.io/typing-svg)
 
+---
+
 <div align="center">
 
 ## ✨ Tech Stack ✨  
-
 
 ### 📌 Languages & Frameworks
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -31,5 +32,9 @@
 <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
 
 </div>
-
-
+---
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Im-April&langs_count=8&layout=compact" />
+  </a>
+</div>
